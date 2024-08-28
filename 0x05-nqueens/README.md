@@ -1,6 +1,6 @@
 # Project: 0x05. N Queens
 
-## Tasks
+## Tasks.
 
 | Task | File |
 | ---- | ---- |
